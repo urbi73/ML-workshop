@@ -1,0 +1,2 @@
+- z BW fotky udělat colorovanou
+- výsledek na gitHub
